@@ -1,7 +1,9 @@
-let age = 1;
-if(age >= 18){
-  console.log("this person is adult");
-  console.log("rfvtgyhuj");
+let temperature = 19 ;
+if(temperature >= 30){
+  console.log("it's hot");
+}else if (temperature >= 20 && temperature < 30) {
+  console.log("its warm");
 }else{
-  console.log("this person still a baby");
+  console.log("its frezing");
 }
+
