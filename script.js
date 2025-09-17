@@ -1,9 +1,6 @@
-let a = 10 ;
-let b = 5 ;
-if (a>b){
-  console.log("a is larger ");
-}else if(a<b){
-  console.log("b is larger");
-}else{
-  console.log("a and b are equal");
-}
+let a = 15;
+let b = 4;
+console.log("the sum is  " , a + b) ;
+console.log("the difference is ", a - b);
+console.log("the product is",a * b );
+console.log("the reminder is ", a % b );
